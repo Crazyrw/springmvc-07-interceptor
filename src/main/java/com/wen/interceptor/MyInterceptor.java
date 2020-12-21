@@ -1,4 +1,4 @@
-package com.wen.controller;
+package com.wen.interceptor;
 
 import org.springframework.web.servlet.HandlerInterceptor;
 import org.springframework.web.servlet.ModelAndView;
